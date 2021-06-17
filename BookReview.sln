@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookReview.Client", "BookRe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookReview.Shared", "BookReview\Shared\BookReview.Shared.csproj", "{885E32DA-E215-4873-8898-82B77EB1B298}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookReviewXTest", "BookReviewXTest\BookReviewXTest.csproj", "{B37F5B58-E628-4E42-9442-2FF9C0404CA3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{885E32DA-E215-4873-8898-82B77EB1B298}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{885E32DA-E215-4873-8898-82B77EB1B298}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{885E32DA-E215-4873-8898-82B77EB1B298}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B37F5B58-E628-4E42-9442-2FF9C0404CA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B37F5B58-E628-4E42-9442-2FF9C0404CA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B37F5B58-E628-4E42-9442-2FF9C0404CA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B37F5B58-E628-4E42-9442-2FF9C0404CA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
